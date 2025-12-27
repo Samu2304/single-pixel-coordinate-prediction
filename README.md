@@ -113,7 +113,7 @@ Proper generalization
 
 ## Evaluation and Visualization
 
-Model performance is evaluated using:
+### Model performance is evaluated using:
 
 Loss Curves
 Training vs validation loss across epochs
@@ -121,7 +121,12 @@ Prediction Visualization
 Ground truth pixel location (green circle)
 Predicted pixel location (red cross)
 
-Visual inspection confirms that:
+<img width="952" height="457" alt="image" src="https://github.com/user-attachments/assets/e80cb02a-0140-40a1-bc3f-2f9530c8135d" />
+
+<img width="1381" height="350" alt="image" src="https://github.com/user-attachments/assets/3ce41d24-9a3f-4a5c-ba1a-0773ba21e1f9" />
+
+
+### Visual inspection confirms that:
 
 Predictions closely match ground truth
 Errors are minimal (often within 1 pixel)
