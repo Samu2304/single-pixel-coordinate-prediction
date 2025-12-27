@@ -25,7 +25,7 @@ The core challenge is not accuracy, but correct problem formulation and reasonin
 ![WhatsApp Image 2025-12-27 at 18 22 57](https://github.com/user-attachments/assets/edb502e6-9d8a-44cc-8ad2-39acff4edf8c)
 
 
-## Dataset Design and Rationale
+## Dataset Design 
 ### Why Synthetic Data?
 
 There is no real-world dataset for this exact problem, and one is not required.
